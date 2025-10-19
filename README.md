@@ -30,3 +30,11 @@ This project is built to practice the **core concepts of Vue 3**, including:
 ---
 
 ## 🧱 Project Structure
+src/
+├── components/
+│ └── VideoCard.vue
+├── composables/
+│ └── useVideos.js
+├── App.vue
+└── main.js
+<img width="1908" height="957" alt="image" src="https://github.com/user-attachments/assets/0b20dcba-52a4-427f-a6f5-07e5258c2b37" />
